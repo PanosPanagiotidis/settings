@@ -1,0 +1,21 @@
+[/]
+prompt-on-close=true
+quake-specific-monitor=0
+theme-variant='system'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#263238'
+badge-color='#AC7EA8'
+badge-color-set=false
+bold-color-set=false
+cursor-colors-set=false
+cursor-shape='ibeam'
+draw-margin=80
+font='Cascadia Code Semi-Light 16'
+foreground-color='#A1B0B8'
+highlight-colors-set=false
+palette=['#252525', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5', '#708284', '#FF5252', '#C3D82C', '#FFC135', '#42A5F5', '#D81B60', '#00ACC1', '#F5F5F5']
+terminal-bell='none'
+use-system-font=false
+use-theme-colors=false
+visible-name='Default'
